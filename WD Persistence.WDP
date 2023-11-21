@@ -1,0 +1,154 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Persistence
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Persistence
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Persistence
+    internal_properties : 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
+    configuration_id : 245201673520771421
+    type : 1
+    generation_name : WD Persistence.exe
+    version :
+     major_version : 21
+     generation_version : 3
+     internal_generation_version : 3
+    icon_filename : .\SXP18040.ico
+    language : 2
+ elements :
+  identifier : 0x4acda61500178833
+  elements :
+   -
+     name : WIN_Optim
+     identifier : 0x421b42080002738d
+     internal_properties : CAAAAAgAAABj7TqR8o892Sa0AptKOD00X0b2BBjr/pkrC+5aF7c2wXfTNVAe/UGEbFHahSDwjnXm
+     physical_name : .\WIN_Optim.wdw
+     type : 2
+   -
+     name : TEST_Main
+     identifier : 0x493e5c560000ba69
+     internal_properties : CAAAAAgAAAD3U9/D4F3V1uE6+I2i9NliWea8bEAJiR6ipu5ucLnlw0335WKyFgJpvnhiXibaphriYg==
+     physical_name : .\TEST_Main.wxt
+     type : 17
+   -
+     name : pGlobal
+     identifier : 0x421af0a600008c8e
+     internal_properties : CAAAAAgAAAAzD2u/jPmx6vVOnCEGSW3+eQgw2OO/XWCCHoKuGBp4UPgYgNdOsqaNkox2QsI+Oq4WHg==
+     physical_name : .\pGlobal.wdg
+     type : 7
+   -
+     name : WIN_Main
+     identifier : 0x421b33090001df56
+     internal_properties : CAAAAAgAAAD8WtTA/6QMHyhhM3jtMZ6LwkURQXAV0H2yck7lNN62el6sFrFnWU80da8plx/RqR/paQ==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+   -
+     name : WIN_Config
+     identifier : 0x421af1430000f188
+     internal_properties : CAAAAAgAAACTb8vf7FnRilXuvMFmvA0mTTqQEJUpDt2uQzS96Snt49UvrTru0sat8iyWYiLemg72fg==
+     physical_name : .\WIN_Config.wdw
+     type : 2
+   -
+     name : WIN_ManualManagement
+     identifier : 0x421b2c2b00000bc8
+     internal_properties : CAAAAAgAAADySCp+zbryLQqP3eZLkiDB7O3rQ3gFUzxO7ybOz1M5rwHRyR4J/+lOU803gQH/++3XXw==
+     physical_name : .\WIN_ManualManagement.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\description.rtf
+   -
+     physical_name : .\Description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAABgzob2d3HXNnJdEaGxAQcXR2AfCg6ip/4qXhLO0Aq2obEErCksyYgScmR/rKUwyABcVZY/jUIflPceewdz
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Persistence
+     identifier : 0x4acda615002088de
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : MyXMLFile.xml
+     index : 0
+   -
+     text :
+      en-GB : HKEY_CURRENT_USER\SOFTWARE\persistence\
+     index : 1
+   -
+     text :
+      en-GB : MyINIFile.ini
+     index : 2
+   -
+     text :
+      en-GB : NumberLaunch
+     index : 3
+   -
+     text :
+      en-GB : LaunchDate
+     index : 4
+   -
+     text :
+      en-GB : LaunchTime
+     index : 5
+   -
+     text :
+      en-GB : config.ini
+     index : 6
+   -
+     text :
+      en-GB : BackupType
+     index : 7
+   -
+     text :
+      en-GB : BackupPath
+     index : 8
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

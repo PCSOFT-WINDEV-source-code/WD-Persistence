@@ -1,0 +1,292 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_ManualManagement
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_ManualManagement
+ identifier : 0x268ce2f30673b412
+ internal_properties : CAAAAAgAAABsv+AZ0IOq9mc8cVGME26QGIlioXKJYwNYCboYt9ZYC8LeQk18T8joBnpDmyPzQEziCONuFcUuxV20v3RzmFEtwkIQiDphcO0NtlhDB8kV5/ESGFFDaK4VjaacEwDEEak38LkvF7C9jO1jdAxF+6NteMfeAmiXUC7to9VmgpPt72JcYYKaQh59k6D7d1+/JRX07KF3rHxsx4YdxcyqOTJcHHnLsCRPibWMSpjMB1WE5DyPE3ALXNTsZtwj/5Lf+2CNcUe2/W2kw8HifU5yZXCRYvbkJQO09EjB7dT0utkrfxmGazesX7bycgC8T/klLONc8zFIc7mShiSKDiQ8NV22Kym3Z3k+YD5Hw1FBqYG6W4mBoRCsH9QY7/K7hqEZp2hm0EiZLPTLQLsPLrYCNT7f9D2RQtbf8Qi8mEP+z5BPEGaED6uV91hzp4xmvRVOZ5HRvwbRCxUTzo9btu+RsMpqXUzO3jGl5nc0KwLzaY4BZwl/PLMy5M5yj5APyFj1DA98UDtwxnz+K4HmPP2FUGJGw5inMyvuK64Yxar3+b/Ur5JRgdl7356uX54U4jbZBjrk3BUZjgsb5PX6yo/BTxMIe0WRE0l2HEFRGeYTMxvDETExbWckA/D3jL+ak7M+dcBtnlWLzVxWA1TzPF3vpRg/xTmBn+csXPccm49oyAWcEFGAKAjb2m8YQ3+VzdmstgyhEYOTqIIMvwQDYL1liDcVHttf3Nv0LBwEXAWajAqEsmBiZHOIJS5Vi2rfa+geynur8AMmv6293WaLuYhNgMp3mMJXrwceFhpxyiCinHZlSH8II98r
+ properties :
+  x : 120
+  y : 50
+  width : 490
+  height : 251
+  widthClient : 488
+  heightClient : 219
+  widthMin : 196
+  heightMin : 148
+ controls :
+  -
+    name : STC_Explanations
+    identifier : 0x268ce2f30674b412
+    internal_properties : CAAAAAgAAADLTCBao9ADHT4exmXxKnos/ucpIDKv9N9dZPjZ+rzaqoz2DQOMj4whOlGlRwAqcJoxx+zWcUNrdzPrrijhRJbYi1bIweBN81KX4tJFGinSSuKNQoEOTkNZzgq6YNHUykmzDLKOgO4aMXpjdHqrh4KMGkRgjhOSfr62MPK5EuteX7ad9yvkR6C4kPeK6dsvWniobDt+3Eo7CavXEw9VHnu1x5pFYWEdXmS8oStd1imdMIw5jnSjKuN9ngvNA3wslmdfOoXEOKEuTMfOUmt//ojMMblvFp4Pv7aeCEvpqJF1isXU+t4sPSA6RwbIqBib21ssZ97w19v54T3kBhp6UN4DymZr2PpVM4VMUmOkNIVDpreu+WvIOH2aQcuBzDT21ogV5qQ9+sQo5ZUGXHeLt29pF5Xh5qBnKIywHnM0sKMlFlyLsqANetjFcmui+ps2CFGJCJfpsjon45CO8H2D3Q0bFxqpYq9NgbrDjj89z48aX6WZ0AO1qnvGDCKvnLMgsIY2ws6wNWBz2R85lepu6pEe1BFhL37utDmXx16lxRcBSH/quxJPVPk2g8WhxhHkROaAkWQ4XrEdeXINe/0hOSkzvkPeYkcxDWoAScGGIpdrWgEz7VgJ6Da3kHklrO9bMJ2A0k1d2LPd6XTUE3QPWZU4lbOtL8UxMbx1jXizsLw6
+    properties :
+     x : 13
+     y : 12
+     width : 462
+     height : 49
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_LAST_LAUNCH
+    identifier : 0x268ce2f30675b412
+    internal_properties : CAAAAAgAAACTdnkL7TrBf/uaM/vv+I7jfkZQQqCfBryXQ3GMaY1HBaIzx1pj1lXwMhumemVa3riYULtw/Iherz8xFbRy5J2G9PIBf7G0oJTR/xnC5genHrv4uCWBoqXcqaFo6U4pb2IuFXof9BCSlAR1YHvIy66laBUoFEnk3a7ObfCsQ2u1ofV0aYAQYQXg9pIGfJNa7tnV4MZNVWeciGotbAbz+j1AcjCw7UytAAIT3WS4xTr8qk1Eu/0Ivv9BcdIKTb1AiLzqqqKc1vQe+NhQn1THTFO2bd5tdI+vgE1mjM6V3ACCAgpUtXuy7gVngZra3wknUM7HM8knpvaaVAVmjE0XF/QLzF60hlyZZUuyuoGSkTihQiPqcQaFQfXiTgpim/fGoZXV5b3Sknln42+uun9gQ6h6uQRQrNKaKqgDRjduBtwvEYhzNzwLifxNs6t+hCnROO5+5qhp6FcalYU74ldpc5mMf/e4TZNPkzrOAxKKaWdMBhxpQR00lAhYGKQoDC26X9qsmI1+CkFXGk6bAPOfvhlPyUjHKj+wwuzOfLQYf3A6jo8=
+    properties :
+     x : 13
+     y : 75
+     width : 462
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_NB_LAUNCH
+    identifier : 0x268ce2f30676b412
+    internal_properties : CAAAAAgAAAAoyDie7F2VurqiwTtI4VUxmWQPTUHUljd8iylDjwOnQKYomVlvxm7XQ45z8xmW7Y6Sk1cRXHFJ1l8uiLuK4CMGjsHS+lDsTmy9zKQdSnUmPh+3wqbE6pjylvXr0bvGH/Pja0JK2nDGQZN+99PPRc7uthlWl2JzdLZnFlaoUc+R2yl4IulrAZT6YGfD/nZS7VMnW+x5jbOEx7Tz4wEjzg9r3rPcdggpaFbtQV5ms5jT1/xOZycNxztjDktRvIJInCC0SrzbNNs82XOU50tzDpiJdfmCIYFWpwBOACLQtvJccxjDDuTcQdhab3QM3I0VfqNvjpKU0v099V+8ypwnLSowABdjrchytqZi9hW5a6ThXTl51sWLJqZ3XtZWTGfYu1bvEDI3lvyGjlPM4CRSRVKLS9NF8w4HfzlLbQa8JSOan6vLmaZaP9AVnvbpZBRsy0y3nJXKio+h0MMdRKzFpF0H/XwvgSR0R0MKdeDrHrda14bi8WpUxjQZS22CqtO9Or+5se5E6NUSgGl5iT+r
+    properties :
+     x : 13
+     y : 101
+     width : 462
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_CLOSE
+    identifier : 0x268ce2f30677b412
+    internal_properties : CAAAAAgAAAB6as443ymg94CyNbCOGzTszv58yVx2TPDHsOMDpWhAyhFYzgmyk/w+S4KqrnDbzzgTx3pvFeVxxR+HHByzJD/tZh5DOVEfwLbis8BnHwORUsDuHp35rxUIDU9fFwm2pGQO0hjfEEgVQv1LTyRgzufVxflg9jj8T8y/yI2bQ5wE5lwiVar1lJvi2b69NI6JVS91SXlX/NO7qzbxQcDdcLI5FCrhQeaMXTikPlm5NiXG4z58Usga6LC523qKMazpuVRRT+JFFQZBL5aEOhTOHheuWcdM6LdLaS4d2bSGgZdP2XRxhTV09B7mORshjjZImFX3PknagE99r6rMQadh3bW51D/XDw/1m+L6M1r3TpMehSF4DNMMueeadSRZolxVkIs9UDQD8tUmuCJ/PEgusxd3sSKN+aGLf1rT4sB7KXIcx7ztCt2Qw0sqBd/PzXKFtxxhMjCxCbeLAJQO6amnCjK1Ss1A0JJYI/Rd0aIWMb1lUzKxqdKzyB7eb965zlxYO4h0K+tHj9e6eKqX9eFMSiu+RL554U6Vxe4IcsVQPz4gYTCPNqVMlMevHAYXaa2a0k6grZQ6JUXnJYh3qGsAY5zPwy08wgmV6KMjEeNJPCXFm5rSHeMyTf2/TL6cpJ2WK4V1x8HpHAuwwDl37r8znXCusOyTE3BIpzdWRFyE5Mav/rVDuFiHDyBui28ZRVLRqkE32Rg+xf/mLbUWNf1JODgkFXNYdiwwg/4rMK57pKTOYG4AmNR9tyGXcdBYhvX6bt1PMq2wt8pemdvhLuxGhRcJi2iBSj+/75qTs0V5jIkrE0VxxEPHNvrNNxif/WL1yXmNY4SHvNwLl3t1hrOBnIvhPbRyAtg/Cxzy47li/MUUK77ihRB3Xms8aYMgcPoBxTNBjUSxH2zY+XpZ57xYvSAVL4f19NwmYQ==
+    properties :
+     x : 395
+     y : 183
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_VAR2
+    identifier : 0x268ce2f30678b412
+    internal_properties : CAAAAAgAAADsDssdN/7+54fkzQqVItJTh3hccJswV5KYVPD33LmsIaC9nTyvhpOZLexg5KJIcv+YgTIwbtmtsVMKsOLPFFj3JtQp2/qWSoS66krVGtOaTmoxcN1P0Jqh2/zgNyYQ0w3u31IEEkFavgRxfqhj3FzxDGNIIpbF1nG478HQpik3sAeMwDJDX5V6uDBvoVbmiMVIwTykL1MOX1f3Pnr5dnANPIUGLkI1qZb5VpgZRSFye6XaW5NCWD7mSmkDmUp1OeFzRgsBG0jXu0UMXtamOYUMwieu0K9hNeEyAX0dSI/SA1zqsJhm6H6zMOtWdsO3Z9Q8IUmjMWUibrZnEy1bWNgOpYbwnAQRJi+dpmwufrzS88s4qMR7FXfXP21lKgnINi5wOrpn2B/DkG0PvVM2bLppWL2m74Unsd3DuNBQoV3mlTr/gxVdNutCBhTMHJLrUWHwT1jxVXQeKAM+AEbeh7Xw9jBk1+X0nVhq6Hq0yReL287t+9I4Ot9i
+    properties :
+     x : 13
+     y : 187
+     width : 376
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_VAR1
+    identifier : 0x268ce2f30679b412
+    internal_properties : CAAAAAgAAACTUY6giFtDStgVnFkEsy0yel9zl+D5lEnlAZMMEeThcsW2RiUWHTpKNPtTJF+ngfQNir1L3TRsmJivgRPoJ7to03UUhhVFuRPrYzsaj74lv0uOkzD2/9FUCMmtdLrEp53Og97Yhg3W8tjtxmSHqPhBVF/khhLZIvWEIwH0Si3rwMcAFO7fA7EeTDRXNQKSFPUI3fDIiy964wvzzp61KhylVKGqSsaJ1dp9qggtGc2+U31OX0fm/FI6Li1LlaTvJ+8FEOkjfZ5VbTeOxGiQ09uSXAFUujm3Q4OU07vXsjkACQbULgqI/kzNGgUMwNVpnZoWe6/Nm+vQ0EhJYZ9FUr4MVyi+XkYvLMFnQPoYkJ4QuRVChsZlC1U5UX8bREOO6lwcbmQ99AOv8qHzn2mcgkb/FLEAdYHzicNbkCYy88P2v4IfIecJciN4TizixgmK0Mazin86hsNbgwo1c8vLqojFLe+rEL7TfruJ9wklekbapDlQVneF9ZSZ
+    properties :
+     x : 13
+     y : 135
+     width : 376
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_VAR3
+    identifier : 0x268ce2f3067ab412
+    internal_properties : CAAAAAgAAABJa/A6CtndzEKvBsPeVQNESIkNAWoHBmMP+60nDOHuQehFL957MqOXz9Zm6HKYdGMg5egmbolpW/m48EYLAN5PSqBPyW6Cut4kfKK1uksg1jJVYreHEF7rHT6oGxACE+/gKWK0ANPUNigtCF7h6vAHyhls3vBDjEkQv7cKoHuHckWGFObhOXemyPBhR/ScEH/O96R8jfXwH1NzvPwLCHQLhjfu9iiv0xpN+v4zB7s6davQF488pnSaGgnBP0NcUvpIk26u5rUqenpxyaObCCJJP6QhbQL+0FDDkvzeiUoTNA0bR0HFWaFCoYyFDyR6gP094ghk/BIJjddYAgbskyXTpocfzVMSzZIWr1PHZ5f/uDypL50Szl7SeMbEkxLTt6vxs7VsQyyKC4rsrGwPg6datRINCOSIGGQ8MUPdVsTfkvvQXio0f3qFp8V3QQO4qBTL4mGItsNb5Yql9Ul5HB5fR4E1hjSlTIlbGSv7ENBQHrPK2PUbH7q/
+    properties :
+     x : 13
+     y : 161
+     width : 376
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : Shape1
+    identifier : 0x268ce2f3067bb412
+    internal_properties : CAAAAAgAAAChlGR/sLgtP002HzcyQAQLy762G+vk8YyI4K6w+Q+1HlIxrarV2AlXLyFFUJajXsnyPFgvDTsjzZZ1dEIM3dGrkvXM9Oi0+DgBqKtOxHfwqTmeVV7ywMN9gpBkhu3GDTzA2tpBsLAKziKWjQcKJF5s+dtOP50LmIKQ8M7N4ckKfDKzQRQ1AK4RqeKp1KNH0k5DPEXnOLLqGRM0zg0hX88JHLggfiWbXPYazM8VSb9nzTIhvzVBXohB/Yj2xhUSdZDGzXjlIZb1Cb1zWUdZ8BmqezlZf2rrjJvIDN3J2sxdCtUGI4zWvUT34y0iXilQMi9s+hICGu8BTP/zd20qUuONk8Ovq3xX/yPbScExPcdXWpd8h9V+vHj5wedAA7AliM3fEtc6rDQ0qiML
+    properties :
+     x : 13
+     y : 127
+     width : 462
+     height : 2
+    type : 20
+    code_elements :
+     type_code : 32
+     p_codes : []
+  -
+    name : Shape2
+    identifier : 0x268ce2f3067cb412
+    internal_properties : CAAAAAgAAABS5A+z3xdBhcS2kYsHJSL8RKvPHkEP+ub6swBYf1nbJsvdv4a2XftrAuRpDwPI4xAU+SssaJ1RK3r56Zsadi8BUX1m2rTUcRS+cn9hN9eI8QJu4dHb0RoM6K2LTX/wcVvpzRiqd2070dOgmG5pGgaJGt4m/mbOs822kUVNfdnS2+jpeJDxXz6obyQYkTTSiOVztjC25gpnuGFc6gcpql4wMVvCb0Faj5sRgKJTDtrUB6ei+QXiXJsXaANovBGHJpmDhZa8j8c6zDm2i6/844PRmVSh4RSSoIHSxkoGff7TtAmjKC9hFDMI7bSkS7rKYaLaoeZXHxd+w0hjI9vU5WHFDDWe5B0DQYbLxHrE2M3V4XUwoFkWMkc++aFPCxyH8zqljQrDcw==
+    properties :
+     x : 13
+     y : 67
+     width : 462
+     height : 2
+    type : 20
+    code_elements :
+     type_code : 32
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x24a0f7e303d79ad4
+  internal_properties : CAAAAAgAAAAZBtaD6IiRhBh0DV4R6YaRZU5Ow1qD8fE5l78c4VK6ztJm13CZ0scjFNI6S5O9E97wQuiv0uwQqzGG78pALVyIDD5S1WjOjT3u6xd137rtQEzTu8ZkJ8qHOsTlspNx0cKh1GxGJy6PrSUz3LJNXWsEy/7wq0lYX7naBAPtOWizoYX1BtAg+9i5EHvoMnsRkWHMCPXoPAI5lUKyqxVbkiWhqi/IDhoWTbLbGOwA1vCr0zXUKA2sWdj3KGPxiGzW9TKINbt7y7CJ8P4wUB7NbeqKM1eVW13aX87JseSxdiE=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABJcUGQt1QIRQEotAYgYUWwYnw6Buf2HhoYRvNJATssxROL5zDy+ycQAkXEDQ6sdVuUQWAmKuwq/ar7m8ESRTOA8Uav1zO0GtSBvPeWAaaV2W09CDrP6BnwKFX3qdn8
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACvhiIr8gSQ5loUp83uTso9CuLc4dExenO6nYq0wt6wNhhy8DIKk+8xrI7GMink5ce8SLehbaZBjJVyvy60Arg=
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      gnNbLaunch is int
+      gdDateLastLaunch is date
+      gtTimeLastLaunch is time
+      
+      // Retrieve the global variables
+      LoadParameters()
+   -
+     internal_properties : CAAAAAgAAABHMQaNqboIsvuAO474g2A5X0Ek8LiRQ+fTvg+kBFFHJ2UITmxrdOkhrK8/MJSiZU5DvtLcwHjAEmi3/uOyPjzeNz/CEW9yDl7+mEii6DAWpLWXhrkcCRydqhprcpF3xS6vQ50PjEOCJiiKu+A=
+     code : |1+
+      // Refresh the statics containing the variables
+      STC_NB_LAUNCH = StringBuild(STC_NB_LAUNCH, gnNbLaunch)
+      STC_VAR1 = StringBuild(<§$0000§>, gnNbLaunch)
+      STC_VAR2 = StringBuild(<§$0001§>, gdDateLastLaunch)
+      STC_VAR3 = StringBuild(<§$0002§>, gtTimeLastLaunch)
+      
+      // Refresh the static if the window has already been run
+      IF gnNbLaunch >= 1 THEN
+      	STC_LAST_LAUNCH = StringBuild(STC_LAST_LAUNCH, DateToString(gdDateLastLaunch, <§$0003§>), TimeToString(gtTimeLastLaunch, <§$0004§>))
+      ELSE
+      	STC_LAST_LAUNCH = <§$0005§>
+      END
+      
+      
+      // Increment the number of startups and save the date and time of the last startup
+      gnNbLaunch++
+      gdDateLastLaunch = DateSys()
+      gtTimeLastLaunch = TimeSys()
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      // Save the global variables
+      SaveParameters()
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+  procedures :
+   -
+     name : LoadParameters
+     procedure_id : 1624923098899002386
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //LoadParameters ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE LoadParameters()
+      
+      gnNbLaunch = LoadParameter(CS_NB_LAUNCH)
+      gdDateLastLaunch = LoadParameter(CS_LAUNCH_DATE)
+      gtTimeLastLaunch = LoadParameter(CS_LAUNCH_TIME)
+     type : 458752
+   -
+     name : SaveParameters
+     procedure_id : 1624923098899067922
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //SaveParameters ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      PROCEDURE SaveParameters()
+      
+      // Save the global parameters
+      SaveParameter(CS_NB_LAUNCH, gnNbLaunch)
+      SaveParameter(CS_LAUNCH_DATE, gdDateLastLaunch)
+      SaveParameter(CS_LAUNCH_TIME, gtTimeLastLaunch)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenGestionManuelle
+resources :
+ string_res :
+  identifier : 0x121b2c0900088746
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : "gnNbLaunch: %1"
+     index : 0
+   -
+     text :
+      en-GB : "gdDateLastLaunch: %1"
+     index : 1
+   -
+     text :
+      en-GB : "gtTimeLastLaunch: %1"
+     index : 2
+   -
+     text :
+      en-GB : MM/DD/YYYY
+     index : 3
+   -
+     text :
+      en-GB : "HH:MM:SS"
+     index : 4
+   -
+     text :
+      en-GB : This window is run for the first time
+     index : 5
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,62 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : pGlobal
+ major_version : 28
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+procedure_set :
+ identifier : 0x168ce2f50145bb17
+ internal_properties : CAAAAAgAAABGLu41kG7fjQV3iS4F72qmnKaNh5694reolNKIW0iw
+ code_elements :
+  internal_properties : CAAAAAgAAABEvPjRF9nOvnjN11DJpPd0vGn31kanUG5Wx+5B052/XDqcXuKGxeBAixdsRHh7bloGJSN6QAgNLZ2qgcSHrnxd8B2PxJILR1DpnWPT6cRgDXXgi0fqnjRyKLITqm4lQ/Z7wSWUfIWopwoxIBYDoyJueM0bTHRXkieQTd6J20xBkSpehlUrBu/OovdDSLHpYZGVaHBScuh32FKkfHWKWJQV5dxKHvrG4PO2t1hD
+  type_code : 31
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABrTXKJQeYuBk/cb+qEz6ApQ53c7MiNc3tfUlNguKUPnyHMDrgDoDG9eDMTpKiGDV7X+ooAIHRanGalEMV4+IbcVancA53U8LCMFsokbjoAkjMB4PuSU34fqPC1zC/Jf6z9bU/Z+gNCMiS2Vww=
+     code : |1-
+      CONSTANT
+      	
+      	CS_XML_FILE = <§@00000000000000000000§> // Name of the XML file for backup
+      	CS_REGISTRY = <§@00000000000000000001§> // Path of the registry key for backup
+      	CS_INI_FILE = <§@00000000000000000002§> // Name of the INI file for backup
+      	
+      	CS_NB_LAUNCH = <§@00000000000000000003§> // Name of the parameter corresponding to the number of launch processes
+      	CS_LAUNCH_DATE = <§@00000000000000000004§> // Name of the parameter corresponding to the date of startup
+      	CS_LAUNCH_TIME = <§@00000000000000000005§>	 // Name of the parameter corresponding to the time of startup
+      	
+      	
+      	// ----------------------------------------------------------------------------
+      	// The following constants are used to configure the example
+      	// ----------------------------------------------------------------------------
+      	
+      	CS_EXAMPLE_CONFIG = "config.ini" // Configuration file of the example
+      	
+      	CS_BACKUP_TYPE = <§@00000000000000000007§>	 // Title of the parameter for backup type
+      	CS_BACKUP_PATH = <§@00000000000000000008§>	 // Title of the parameter for backup path
+      	
+      END
+      
+      gnBackupType is int // Backup type
+      gsBackupPath is string // Backup path
+      gbDeletion is boolean = True	
+     type : 720896
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x121af0a600018c6f
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : "*.xml"
+     index : 0
+   -
+     text :
+      en-GB : "*.ini"
+     index : 1
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

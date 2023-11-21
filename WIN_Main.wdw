@@ -1,0 +1,449 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Main
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Main
+ identifier : 0x268ce2f406a3b6c1
+ internal_properties : CAAAAAgAAAD0dQzSeAIxq0SW4GC8qD9WAqvpSkNvzwpdm/kD3snVFKb4d5AvvlZItc1XoZVfy3OzEJ1veu/WNXxf5tSxbSjBXtRvsY+C9e6YKfAKm07REUAMZdkIwjB8EEDp4yZVHWRkRla4txuJCzm/YuWIX7RLRQwsCGXx1Qt3xg6Id2AbGx6W4zImw4pPAbJqFEonU3VTG5rd7AY0iku99+bpKOkbQlNr59li7lJpzFtTWjiXK6n+HFyFqJhWNiFm0YMqOzZ9tHNDAJpHOYuperLxxH+y9E+k4fH+XU8gHIyz/TTDDJp/eB+BHi17TaJQsQjFPfpapd+I88VOb9nj5tsvbWMHPRMq3DPobSq5Jc060jaPtcERvKfrfRqjIFz3tRBnW2s81Ig07ZX0crIRw4OUZ7HcB/y9WwE2P94Gr9HP9prMkLH36pgq3Pn161zGiXrL3Um+Wh86lqsyYkT44emEE3c+I/96u0LzUbz8upk8Iyd1rPEauqGn7J2nlD09jwi9/rhXU1WireqSBCjRtW8AFecH0KO36bd6Md6E+zMnJJt9x43ep8eNj9D5exqZNdMsSBAO/G0NlX3eWO6L9eTrDsPHeLEkUePi5UxAFn+sqrPGr/P2jLfehahagxkHyQREVdVqr8CPzYRW7yzg3F1DSELKCFIhgdqYPqgM0wX4cOklmFS+y9eMLN6OjbLsH5bI100cVz7/imb0SgT6RZv8+YXuVTT04qRhremlxzmzdrCpjxLJCHZ4waEb0t/GCsitADjHV0zQdW9K3KaxEmZnQA==
+ properties :
+  x : 120
+  y : 50
+  width : 641
+  height : 423
+  widthClient : 639
+  heightClient : 391
+  widthMin : 196
+  heightMin : 148
+ controls :
+  -
+    name : BTN_CLOSE
+    identifier : 0x268ce2f406aab6c1
+    internal_properties : CAAAAAgAAAAO473dcrKewgOORVWJVtvfk1nUmEhqlcQ6wqaiJf2peQyTlchsSTHT1nTGIgqiEXBHJSG39ZX0AGGfkjj7pyJvpBiUkbcC8x5ErEQXX9yeI9pMNR6Q0lOKs+5xGGCYqochuWr0MSuInVbRju2HUyrDSAtQPE+DFPxq9ekN79/pK4XYyi3c2rKqcvbYTadFzf7UK5ug1O+nigw39pUlz0w9fSPVLi7iX+w4TYk9bF8cDrShCGhla4idgsYnomF5o71LjDBBSFdMhvRPg8rG5Zz7lXFMfZuMM4v9sYiS61fhVvH3wrg9U5z75S8odFzY7UcQ1gVyh/a4OTpLC0o2OeZdlcK8IyR3uqLf8wb9tjM51vOdVowDHK95jc0g1e3a4L0FjzOiJ5a1UB5D8EuWZBaHVmWMKXjluQ03/JkJDY6fRbXJu23wpKw23/ZqHBFn3GRbggWDuc+DB65r00M4xIPCxs1kFsQBnZWfSYabYNMCWuY3G3zRW/QblYr5r8P+lm3gnwMlOVYAfUIHmRrHogLNxEjHs9xc34HYSpklptq1+vJxdPuui3v01GAt8vgEK+eM/3JqSTKZRHqNao7Bb42CnSt+hskkZiwFOe/mE2lUKpqMCwfaQpcy9i44RdzEVsSBrx2LOmQ0nfuDTiw2tX09TDxH6TIdLUz+pMB5XyiKtb3JGnYZFEJ3Q+Vjjn07keDNKU0+hF4uVZ7GNXxof1lvi012fXXDXgrDpOBwmmjTEkvIL8gMYOMx9YtPCJXFs6BnnyxNkJLQsxN/i5licyE3duBZSGlCrtbyNq0lkPjpb4Ygn/aW/p9ZN9NGJF9COYF2MFwtjgWHCK1J6vvM4CIJHZYmz60/RM5Al0G7G2N3fu/FZPB3VZGE/qAs/YwLXccSw3yB0dZFY8Hm6fLUqN+/ifQgeGIL2WQe
+    properties :
+     x : 546
+     y : 355
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        code : |1-
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_BACKUP_MODE
+    identifier : 0x268ce2f406abb6c1
+    internal_properties : CAAAAAgAAAAr+8mVOf32Bfio1MH3w+Ei79vimTOZLCctgDrDFr8/4RH60y+lCsMbOMrwc0oOdKahnsXZR49QygBjO50FasiEILpfPNM1zawpimTTt5RPMiCBZhAPqyLr+9x3DPgEYtDA49o4KDploLPY+CF4uXzrrRpNyCMbc0ZNpnLfkNp70GmrqLSp8jXsRiA90uk4/00D239g5xeuTCs1GlPyU1v6tFrk3d8iOD4M7ti+PHY4oY9rx5f7SIF6xG5Okqfs5SgBF81WaC7s3nsTNCekWXYV/3KdWuNSRZ2opn2pUOqabGM3ybu0/37TzOOLphQPpcCG7+XgJDUicq62K9grD+Q6TgQC9fjOBJjSyiJ6i5orDvkBnY3I+xRLcV7tKTQnREYdhFp6Wl8mrwAyRstCG1FBLS50OoXfd1KTxHIHJi05bOa8BcHSn/4p9BY4ksLtgnfYv8I7NQo2+CRrX/Z5YIbbwGXMi+356dFG6HLmJwGysBYjvZKhrAhNa/oG/zuaYcYBHCA=
+    properties :
+     x : 13
+     y : 355
+     width : 441
+     height : 24
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_Explanations
+    identifier : 0x268ce2f406acb6c1
+    internal_properties : CAAAAAgAAAAOaGVUvH/BFBuvItLRTIQp+4UFnva9hbxRNe0ZTzriazvI4KyV58jy9h948QOCC5CbpNMoUcg54Vb1664ITliGmu9DAeTEQBAJcTkiYN8FTxiNOTIbDL9zLajuGJAfNj39hOmq+v3se7J64rIXHpfWdW3JPZAvBD2iwNdaLSyspof5a5ZaEmkLov3TdaIQRqwYZxKlv3Z1xTJymCeT6BWYReloCT6ia0pAa6MVVfSoDC0pN98DITJXFBP/3p5bTRcqn35/ilBzxNy6ZuM+UKusr7u0oEX4bGED/QZzGFVOtHHtAM4GRD1J0dqs+LPAvXGBHaMauTiSYznlXmUtSpEljHIDtruEv+d63jj/kwMHssYUKG6PqeNFVb8GxyUjLqRVuk8H4wytVBIr2r0i3QHvoz2kXX2LVq6AX0LaubXI3qpJwqgY8GCqAN9cFn4Xd1EEPx1q6rF+G8YpEK0GbOC58z1hcjlTYOiGHn45wd9eSryr7cFWaM0F9DrdcLTs5ZmhZqM+vg65LIGRRDbbehk7W3lVEFPZ99TPNDWRVTLIoFcbfFtSOERVwDjNgiot9MM8VBgCqps6EGwHqvcM2JOr3QQ4jz0YhWgo3xXgYh/RgFLLOPDdYyJXZj3Yxw==
+    properties :
+     x : 13
+     y : 12
+     width : 613
+     height : 41
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_OPTIM
+    identifier : 0x268ce2f406a8b6c1
+    internal_properties : CAAAAAgAAAAyJRp0inVb9+/CvTht0Xsp398nwTJysFDZ2BLB0zp43FpKSc+6jAG/q9pUtNVmKfIu0PLgD2vOrdBvv6h04Z5gTE0yo5tZROlu8OGYGdXDe6Af/CuX88UJxPWUCrGA8MMKBqh6NmMjJsxZ3UuTB7SsEOgoyXjkPwLMlNILmLfGX39+B6USP4x6022rd68TNsfZSzIthubCVWrxZmDw0sjBpnEMhxM5V0sA5dV20I0/2PgzUDZBF9UNgqPqA6UzdfTwFyLgW9vEgU+GImB9tfpmiDWQsiEf0PW8I2M8NqpRS7G4G6GuwWiZwKaWE/3GMUiKg/Rx3HBlx9XYkAWeloK4yu6n/d2C4No5SJx76OKCEKhRB97ePqSCnaTFwPgBUUMmdvFX/+QHxWm9qCJ1MsYmrN1mTNwtOk3HILVEPCAz11VPf0tJe+Tsdg+BRTEaJRNqNEGfoN1yuqF1JMRB9jTGQtahJKphPdAykXFEz4dOBWGH03CgJ9fIsRCL2npgvhr/9HrrJUFC9vvVUVIxeJxHU284FCDN8wUmK6bSLWDzggY5MH104xYZuqgcE6ptMorMIIsLtGAHRhMgKBnNyBKNPATz+QTEHnsxpFFef+nLc+0YlHESZwEjLHsKMAcAZL0DIvG6nFH6joCmbWx+FjN1KeecZmqqHd98L6lTOfrDv6pBTHqrThIPROVCrs73WK7jBXgYFUDxSwuk4eufbHHT/XmFrzkAqGQsOwc9rXejFI+4IBDTrWNW36xUEwz5Hqacx4VUlWdVu5YQMgf0e3DcdPzvlPIdlp4XmKZF6rqOh9YaUVum+yVUZreG2Kj0+V41Pfli1p9ZxCUilkjMqVcNNsbpoZU=
+    properties :
+     x : 43
+     y : 248
+     width : 83
+     height : 78
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         _Open_Optimization()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_MANUAL_BACKUP
+    identifier : 0x268ce2f406a6b6c1
+    internal_properties : CAAAAAgAAACGLEqRLpt2PpwY1rtTNWXmYYQUIpbUA+oarrOL2PB+uDH3kynMXri/c5Bw1SczPPjKYm9zi+yEV3fMi21LuMevcoP1ksUhPFKyqTovpZx52FVFJb78aHaZtPenBolKjfZ2Z+72bMkLdD0ViwAla7aEyyrWv53iCPVaHerkkunf60qpr41+12um/SzE2Q3INWOQcEc1DUwRsA5y85JaEEBMrNi0cSKYhQla4zXASQZeuDOIPorJT3I/Y90jskgq9deky9SOXNyfdWsfDZOOgXgasnjFCpldUqjKxVAyIjLgMTlni1isITNSxX6Xw3nCGyGnMp9JmaEUZ/nP+Nk10uqHwj7d7nmMYjLnwXAHM6ElOd7XUzJIDCGSjOgQQXNLmrX/kdWhjptnFVeHBZPEQUa7cJ4t+k7hJMVED4+OQYFHuKt/OvdVvs3sIO/ilBxk1q1GL0KAfeD6o7t/zivoQD1+QTsnNBSHGzVbjJWxtzOXKvWu2LU2IpLlCEf41cxK46covDnPdMMy5vPNdPDi9BTSJ5BuJ40XgmED5W53+3ay5DIOeO/h2ujtNdtDm8vpuQuh4KpWJNkASy9tExckPtcDESyWPYcz/5ZP4HhUBz/WsHvBOMQwvF2IxoKyHociLaQ7b892XqzOZ4pVCkIdcS8i5jPnnMb6z4sp5AP4nIgybSBYdjaWW8mIpHNxqzYw0N4YkNIt39JXXPAO9LzLyCjROrYYuLBQPsR5dqhgReicXXJuLJYmPRGpXhYdwjX2jUiRcBkws7LwSJcLdZ+6oumuOyC4iBdxZ+glw0VTCgBXJgLDb4PKzW3Gmq2mRpmkUYM+BYrTJkRiyAzk+mGwDiM1fiTc5Yw6r24=
+    properties :
+     x : 43
+     y : 159
+     width : 83
+     height : 78
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         _Open_ManualBackup()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_PARAMETERS
+    identifier : 0x268ce2f406a4b6c1
+    internal_properties : CAAAAAgAAACh1pQ/vWWF2wUjnsE6OEntSwQ5bFUXHv2hPEVoVZmNsEk16ChdTpqWrFDbXuAvGYHqXEp6bEKmz6iE1As23bZd2HTUjPArViGeote1ADjEi1SKFp1gFOVvMgARJZWkCgLjoAyTQrJzrb1lZmjQ2XdtvUbLAOquwkjFC1s0P1RwWz/J7MW33oBsefkK+9nLlBHKWhso4iJxAJSSOFfOuFK0oMc5VgJmi79hSumBh9yTI7CqIjdzkU4+GBqhwQjCQWurxH5PaiqMr1OQ3z+PZqH8l3Svi7VoTvz4avPZHCA6nToNOg75JhHWJK7VAKGbg5yPuio4b6QQ85x5bWid6RNJTyBgrj1I7jmuUZtK1iC9mWL0wogvVALWEXVMqzgqPA+/zegIrmJGD848A69V4ifmSnyzHjwi6Q7EsmIFoiTNrBCtXfvAXtpUr7LS5VAvz2QfjHNsgiJd8nQMjTLZpf0IRG3UFDTy0bPTAMTg/GSnBbqh/AhTKHOO3CmajdnRYxg3b1AQ284pkOVfXK7rcN0jKLqAVKiScTMe5Cdnq9XQvJP52bAuTkasRWxuBVaV945VUo1retxSWPzZxwQouSNDLqeXvjxACdHQBnTs7L39udz3nK1qkdYLrvleQHVue8ED4kRVjF2HVA2qf0GdauQ86Dg9I0iB5tL0NajVOWqJR1e5ZGVnKsehpD4+R7Ae4UQIBB/mtSMxquSdFpd7PncTmUGg02zGuz86lNSXR1p5sITHO+EfWqHzzzgCwazmDD8AFT//wznyhPLA2DZLM6PMyFF9caN/NQm64r+NMZ4GLILBBnZFQLXh3DIoa7iqmh1qZangcfQHKrnJZAazfM1vUFCzxrg/62RWZ5n9OP4mDGjW91GWPQ==
+    properties :
+     x : 43
+     y : 70
+     width : 83
+     height : 78
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         _Open_BackupConfiguration()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_OpenConfig
+    identifier : 0x268ce2f406a5b6c1
+    internal_properties : CAAAAAgAAAD4oTTThUrudQFMTO/TWOT/UBJ2ojBJVpUyKMLi/V9+Euz7VGiqk+iagI65E8xsE5794V0MSIXgrPiEP65eygFsyHY6EBcaNtadB+lXCfNy+gS24SyzuNM+8u9ZMMIqDlGfDlrsNR8/DoG7X8BcOCjkN6PsHGqw3IfTVZB3D+LGDyTNKvf+yj8nrxAA8srCG3XFs/Cx9vi5KPu2e8gIfzLd4LyfVVWc+3hySM1mkUO1oO8X+giP+eCXOZvoxeuUYxKfB2WK4D3trV/7GrBXTZp+qvPV5/gsSkD938do/OYSrs6iA8RxvkGzj/k5th83Z5U7ZEuaqiWsmZpRvKfJemwIsCCx/CXqhnAOx0HH46NotWo0cDQ+7BliqDFC75za0f5vK228L4c4Hy4ffd5TRloTxbOaJvX8RcZWMB9K3g7JmhideJ8YPzM4mdl4iklT4exBA79RWjDFuh+l8XyOtFI4oB18fMV30f5r9rjirwPsVFd1RN8Pi+P83ovbLZhxdaxGSJ9wW4KLMaKxL0xKyjGRQT3FJBq3bXTtvXAiU2SNAghGVeKznwB8t41uIxDBR0SYnJslT079WFWwXZUA46fVWorB3/2AxW5UtjYuvYmFYXeNmMQrAKfRmgyz9OgpCTrgb0KrSlHHpeLAJEsB9Q8=
+    properties :
+     x : 132
+     y : 70
+     width : 463
+     height : 78
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_OpenManualBackup
+    identifier : 0x268ce2f406a7b6c1
+    internal_properties : CAAAAAgAAAAQzmj0wN1l9L8c0zvYurCZdQqHBYyeq62cfb1wbMigkj2tdWY9HI26N9oUAZJW4sBSA39gt5WeXlCtAWCn2nM+w25eL5eEw1tbEoZhY7Rwp6quVaWw6Z+LR6LZxjmMnhJgEm3NE6CXMnvw6miTGroGx1p5jcLbfePpxq/bM3v38IQTrA7xh+SqovnhVkrxS1Rb5hS9Q5hAjtwLhQViL1qgwfc8m+h97jsfRbpA3x/J8KFkhaEflHhJLx8VNEw5bBARBJzF85ZmPiKaPOzYZSSa8r1jdsCf7YjwZvKP3YzpX5/iHO9XSqlToPMivaZmv1Tugx9kI1btEaKcxsc9Dyi9/blDoxZ7qMRq3POttRZSiuPlFk+jk03IWoysCbqhtf/8+u+BluJGXzYy7fCRM+YS2AyQt8Aj4ZyYMc+weLwmXkbxm2UUD1I/YBdJo44DBAg/w7DpANy4+kschRK8SWuMUBSG17vYz4bLIue74pn2U+OS2nAVTip5UxrqEuVfc4pzQeAFzm9hw9Alvai4wZcRVyJOUlRbmFp2sZFFZ1Op93/JTQBv+VWsEAkZOBAdlnkrYlpjt6h/VkwxJWkhnmJP+L7ZsjJda1jp31eXhy/AZ9dcUihl3IQH/9J4ZznnIAAiWhESWc6f4dUDDw==
+    properties :
+     x : 132
+     y : 159
+     width : 463
+     height : 78
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_Optim
+    identifier : 0x268ce2f406a9b6c1
+    internal_properties : CAAAAAgAAACoLgcDUCXtjWAdXvfMwmWSkmELVrJqfyVwlW14/TjBAx7rjfg6Sd0Aa5rmO6ijvM/b61IgYz/G3OCUG9/u8ZlF5D1uyI43IFBzVNtWnQrPC1wzp/uvqrMBDvKdlVzzWjyMCiI5gNfC460bY0dvHxS5KNQebxUIqm791/9H7bwTnzdqwQSWuKdJhB8ruJyVfzm9hxrKZjrxovnamdiVJQSuJitfgnmL3gVT6edeksQ6Urw770ilxDKPcu+8+Ip+62WuWfA0D6m75F2qee1wvUZXxj/mI/EwwWOkIr9NnzPlxf/Fyrm1zsghXxELjXGCoT8Ip1JgwaDarqvI7/uIBGK5mvr/JcUfpvYHVNTtgDF70c2bVE+fKvpVNk4tjNG8sK+xkll45chcoVO6uY9MQXZfhHOGWVlnjh+liZHxQMM94VTwFSmZKC8HL05AWd2nMQtDWE4OQTEzVy2QB/9Ptr4hSOC3T+qKEBoQXilX+ids5H0At6aCBWl9vt+g9re/Og3M+0MNUbz7/2jtM1jmykqJVBMWw2/zaEAu7dMFN3BtOlSogD75ZmoV8xIGZz90wkvDqtFj84VGKNaISXM5mg==
+    properties :
+     x : 132
+     y : 248
+     width : 463
+     height : 78
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x256ae33e400e2adc
+  internal_properties : CAAAAAgAAAAZBtaD6IiRhBh0DV4R6YaRZU5Ow1qD8fE5l78c4VK6ztJm13CZ0scjFNI6S5O9E97wQuiv0uwQqzGG78pALVyIDD5S1WjOjT3u6xd137rtQEzTu8ZkJ8qHOsTlspNx0cKh1GxGJy6PrSUz3LJNXWsEy/7wq0lYX7naBAPtOWizoYX1BtAg+9i5EHvoMnsRkWHMCPXoPAI5lUKyqxVbkiWhqi/IDhoWTbLbGOwA1vCr0zXUKA2sWdj3KGPxiGzW9TKINbt7y7CJ8P4wUB7NbeqKM1eVW13aX87JseSxdiE=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABnHyf2WSoKewc+uhDWh2uWiAogFHGE2KDWBLmT9xEornXD09Rwq6McwnUWBzyolSjx5u39Q5W7DHcYMkJPDI92x5x1kXVq1A7PSgWAK4yv9wtTFizZ5hvyLivdg/PS
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      // --------------------------------------------
+      // MANAGE THE EXAMPLE PARAMETERS
+      // --------------------------------------------
+      
+      // Retrieve the configuration parameters of the example
+      InitParameter(paramIni, CS_EXAMPLE_CONFIG)
+      
+      // Load the backup parameters
+      pGlobal.gnBackupType = LoadParameter(CS_BACKUP_TYPE, -1)
+      pGlobal.gsBackupPath = LoadParameter(CS_BACKUP_PATH)
+      
+      IF InAutomaticTestMode() THEN
+      	pGlobal.gnBackupType = paramIni
+      	pGlobal.gsBackupPath = CS_INI_FILE
+      END
+      
+      // If no type of backup
+      IF pGlobal.gnBackupType = -1 THEN
+      	
+      	Info(<§$0000§>)
+      	
+      	// The example is started for the first time, we must specify the configuration parameters of the example
+      	Open(WIN_Config, True)	
+      	
+      	// Parameters saved
+      	IF pGlobal.gnBackupType = -1 THEN
+      		Error(<§$0001§>)
+      		EndProgram()
+      	END
+      	
+      END
+      
+      
+      // ---------------------------------------------
+      // Initialize the backup parameters
+      // ---------------------------------------------
+      
+      // Initialize the last parameters
+      InitParameter(pGlobal.gnBackupType, pGlobal.gsBackupPath)	
+   -
+     code : |1-
+      // Refresh the static for the backup mode
+      REFBackupMode()
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+      // --------------------------------------------
+      // MANAGE THE EXAMPLE PARAMETERS
+      // --------------------------------------------
+      
+      // Retrieve the configuration parameters of the example
+      InitParameter(paramIni, CS_EXAMPLE_CONFIG)
+      
+      // save the global variables for configuring the example
+      SaveParameter(CS_BACKUP_TYPE, pGlobal.gnBackupType)
+      SaveParameter(CS_BACKUP_PATH, pGlobal.gsBackupPath)
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     code : |1-
+      
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+  procedures :
+   -
+     name : REFBackupMode
+     internal_properties : CAAAAAgAAABm51fBj1rE3U4O/1hnvYNe2FWqtTrHwUiFrxqUCHXg7+YPdakvu1k4IXJLufC09tFE7zGQGgyzNqHZ9ridHJseu/mhlvZsUQCJwniz8cwxtqXq6cAznnEyAGovqJGkUYiVWni70CXI89SQQlm9
+     procedure_id : 1624923103194429121
+     type_code : 14
+     code : |1-
+      // Syntax:
+      //REFBackupMode ()
+      //
+      // This procedure is used to refresh the static containing the current backup mode
+      
+      PROCEDURE REFBackupMode()
+      
+      sBackupMode is string = <§$0002§>
+      
+      // According to the type of backup currently defined
+      // Compare it to the WLanguage constants used with InitParameter
+      SWITCH pGlobal.gnBackupType
+      
+      	CASE paramRegistry // Registry
+      		sBackupMode = StringBuild(sBackupMode,<§$0003§>)
+      		
+      	CASE paramXML // XML file
+      		sBackupMode = StringBuild(sBackupMode,<§$0004§>)
+      		
+      	CASE paramIni // INI file
+      		sBackupMode = StringBuild(sBackupMode,<§$0005§>)
+      		
+      	OTHER CASE 
+      		// Unmanaged
+      		
+      END
+      // Check the backup path
+      IF pGlobal.gsBackupPath = "" THEN
+      	sBackupMode = StringBuild(sBackupMode,<§$0006§>)
+      ELSE
+      	sBackupMode = StringBuild(sBackupMode, pGlobal.gsBackupPath)	
+      END
+      
+      
+      STC_BACKUP_MODE = sBackupMode
+     type : 458752
+   -
+     name : _Open_BackupConfiguration
+     procedure_id : 1624923103194494657
+     type_code : 14
+     code : |1-
+      // Summary: Opens the window for backup configuration
+      // Syntax:
+      // _Open_BackupConfiguration ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      
+      PROCEDURE _Open_BackupConfiguration()
+      
+      // Open the configuration window
+      Open(WIN_Config)
+      
+      // Initialize the backup of parameters
+      InitParameter(pGlobal.gnBackupType,pGlobal.gsBackupPath)
+      
+      // Refresh the static for the backup mode
+      REFBackupMode()
+     type : 458752
+   -
+     name : _Open_ManualBackup
+     procedure_id : 1624923103194560193
+     type_code : 14
+     code : |1-
+      // Summary: Opens the window for manual backup
+      // Syntax:
+      // _Open_ManualBackup ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      PROCEDURE _Open_ManualBackup()
+      
+      Open(WIN_ManualManagement)
+     type : 458752
+   -
+     name : _Open_Optimization
+     internal_properties : CAAAAAgAAADoQzQSaMWEESqKBxWqFkvi95S0zGozRd4QmvR1lXxKq8YTkUShMlAdgNha+C629U4sHBy1li7Vc3iUDW4ExIy9t4iaogyqz8qm3sqYGgtkF6QZ999rzLFO2veybEGCHEFRkCftUocTzN4ZVNOyTn8iu4mdVM57HsWOC2okw0/9cKxWgCRNjNMuKocpj6LKcyfG0mUYC4A=
+     procedure_id : 1624923103194625729
+     type_code : 14
+     code : |1-
+      // Summary: Opens the optimization window
+      // Syntax:
+      // _Open_Optimization ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      PROCEDURE _Open_Optimization()
+      
+      // Local variables
+      i is int
+      
+      i = 1
+      // The WinOptim window must be reopened as long as it returns True
+      WHILE Open(WIN_Optim,i)
+      	i++
+      END
+      
+      // Display a message
+      Info(<§$0007§>,<§$0008§>)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenPrincipale
+resources :
+ string_res :
+  identifier : 0x121b3300001ebd28
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : "The example is run for the first time, the backup parameters must be specified"
+     index : 0
+   -
+     text :
+      en-GB : Specify the backup options before you can use this example
+     index : 1
+   -
+     text :
+      en-GB : "Backup mode: %1"
+     index : 2
+   -
+     text :
+      en-GB : Registry (%1)
+     index : 3
+   -
+     text :
+      en-GB : XML file (%1)
+     index : 4
+   -
+     text :
+      en-GB : INI file (%1)
+     index : 5
+   -
+     text :
+      en-GB : Automatic
+     index : 6
+   -
+     text :
+      en-GB : "Caution: your backups must be reset before you can perform this optimization"
+     index : 7
+   -
+     text :
+      en-GB : Parameters -> Reset
+     index : 8
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_Main.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
